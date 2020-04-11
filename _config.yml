@@ -4,20 +4,20 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Mediator"
+title: "Elliot Rotwein"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   A blog to follow my journey as a software engineer
 
-email: a-mail@mail.mail
+email: erotwein@gmail.com
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/er_logo.jpg"
 float_logo: true # true, false (default)
 
 # blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "/assets/images/main.jpg"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
+name: 'Elliot Rotwein'
+author: 'Elliot Rotwein'
 author_image: "/assets/images/author.jpg"
 
 paginate:	5
@@ -25,7 +25,7 @@ paginate:	5
 url: "http://myblog.***.***" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
-twitter_handle: '@dirkfabisch'
+twitter_handle: ''
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
@@ -34,12 +34,12 @@ twitter_handle: '@dirkfabisch'
 
 # social icons and sharing options
 social:
-  - icon:	twitter
-    url:	https://twitter.com/dirkfabisch
-    desc: Follow me on twitter
-    share_url: http://twitter.com/share
-    share_title: ?text=
-    share_link: "&amp;url="
+#  - icon:	twitter
+#    url:	https://twitter.com/dirkfabisch
+#    desc: Follow me on twitter
+#    share_url: http://twitter.com/sharetd1 diagnosed
+#    share_title: ?text=
+#    share_link: "&amp;url="
 
 #  - icon:	facebook
 #    url:	https://facebook.com/???
@@ -47,10 +47,17 @@ social:
 #    share_url: https://www.facebook.com/sharer.php
 #    share_title: ?t=
 #    share_link: "&amp;u="
+#
+  - icon:       linkedin
+    url:        https://www.linkedin.com/in/elliotrotwein/
+    desc:       Connect with me on LinkedIn
+    share_url:
+    share_title:
+    share_link:
 
   - icon:	github
-    url:	https://github.com/dirkfabisch
-    desc:	Fork me on github
+    url:	https://github.com/elliotrotwein/
+    desc:	Check out my work
     share_url:
     share_title:
     share_link:
