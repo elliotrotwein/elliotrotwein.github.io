@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My Introduction to Full-stack Development"
+title:  "Full-Stack Development on Coursera"
 date:   2020-04-11 15:31:25
 categories: jekyll update
 tags: featured
@@ -23,11 +23,9 @@ I also created a rock paper scissors app that just utilized the HTML, CSS and PH
 
 There's a good description of each project in the READ.me file for each repo.
 
-I'll have to say, it felt pretty good to actually complete a few projects from start to finish. I worked in industry writing code for almost 2 years, before I had ever built a "simple" CRUD application! Pretty crazy, right? But in the process of doing so, I learned so much and was able to tie together things that did not make sense when I first started my career as a developer. For example, I didn't really know how to do much with a web server other than stop and start it. In the process of taking this course, I became much more familiar with a web server. I learned how to install the web server itself, install php on the web server, modify configuration files, add/locate logs to error.log, tail -f those logs when debugging and more.
+I'll have to say, it felt pretty good to actually complete a few projects from start to finish. I worked in industry writing code for almost 2 years, before I had ever built a "simple" CRUD application! Pretty crazy, right? But in the process of doing so, I learned so much and was able to tie together things that did not make sense when I first started my career as a developer. For example, I didn't really know how to do much with a web server other than stop and start it. In the process of taking this course, I became much more familiar with a web server. I learned how to install the web server itself, install php on the web server, modify configuration files, debug server issues, add/locate logs to error.log, tail -f those logs when debugging and more.
 
-Throughout the process of building these applications, I realized there’s a whole lot tha can go into building even the most seemingly simple application. One good example is form validation, which means making sure the user is entering valid text into a field. It's such a simple feature to the user, but it took some work to implement it by writing the validation logic, using flash messages and then implementing the validation on both server and client side. It's small features like this that the user just breezes through in seconds that actually can take a while for the developer to code.
-
-This course structure was excellent in that it followed a set curriculum geared towards building projects, gave the necessary help to build the project and then sent you off to go do it. I feel like this structure definitely made it easier for me to understand how web applications work at a fundamental level. This course finally serves as the first story foundation where I can finally lay that second story that's been floating in the air while I've been a software engineer in industry.
+Throughout the process of building these applications, I realized there’s a whole lot that can go into building even the most seemingly simple application. One good example is form validation, which means making sure the user is entering valid text into a field. It's such a simple feature to the user, but it took some work to implement it by writing the validation logic, using flash messages and then implementing the validation on both server and client side. It's small features like this that the user just breezes through in seconds that actually can take a while for the developer to code.
 
 Here's what I'm planning to tackle next: <a href="https://www.coursera.org/specializations/ruby-on-rails?">Ruby on Rails Web Development Specialization</a>
 
